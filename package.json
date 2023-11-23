@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node src/main.js",
     "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest.js --config jest.config.js"
   },
   "keywords": [],
